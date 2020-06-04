@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Татьяна Козельская](https://up.htmlacademy.ru/javascript/20/user/1501523).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Пасунко](https://htmlacademy.ru/profile/id702351)
 
 ---
 
